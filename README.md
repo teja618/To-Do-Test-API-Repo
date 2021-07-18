@@ -1,5 +1,6 @@
 # To-Do-Test-API-Repo
-This sample test API is used for React UI starter project 
+This sample test API is used for React UI starter project.
+
 Requirements: MySQl DB Server running on Port: 3306.
 
 
